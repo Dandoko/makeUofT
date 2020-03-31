@@ -22,7 +22,7 @@ At last, we set on to utilize the Telus Dev Shield. After gaining a major stride
 
 Another major barrier we faced was having the Raspberry Pi and the Huawei Atlas 200 DK communicate with each other. Unfortunately, we used all the ports possible on the Raspberry Pi, giving us no room to connect the Atlas.
 
-Accomplishments that I'm proud of
+**Accomplishments that I'm proud of**
 
 Finishing the vision recognition model was the standout for the accomplishment of our group while using a trained AI model for facial recognition along with Huawei's Atlas 200 DK.
 
