@@ -1,6 +1,7 @@
 # MakeUofT
-This is a repository for the makeathon, MakeUofT 2020. 
-This repository does not contain the code for the coding challenge that we particpated in and won. 
+This is a repository for the makeathon, MakeUofT 2020. <br> 
+This repository does not contain the code for the coding challenge that we particpated in and won. <br>
+We won the Huawei Ascend Innovation Award for the best usage of Huawei’s AI Development Board ‘Atlas 200 DK’.
 
 **Inspiration** 
 
