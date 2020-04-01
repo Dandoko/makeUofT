@@ -1,4 +1,4 @@
-# makeUofT
+# MakeUofT
 This is a repository for the makeathon, MakeUofT 2020. 
 This repository does not contain the code for the coding challenge that we particpated in and won. 
 
@@ -34,6 +34,13 @@ An important ability we learned over the course of 24 hours was to be patient an
 
 Create a better physical model with a two-way mirror and LED lights behind the frame Implement with a smart home system (Alexa, Google Home...) Have Personal profiles based on the facial recognition it can be personalized for each person Have voice control to give commands to the mirror, and have a speaker to have responsive feedback
 
-# images
+# Images
 
-![](images/logo.png)
+Logo: <br>
+<img src="images/logo.png" width=200>
+
+Facial Recognition: <br>
+<img src="images/facial_recognition.png" width=400>
+
+User Interface: <br>
+<img src="images/user_interface.png" width=400>
