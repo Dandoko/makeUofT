@@ -33,3 +33,7 @@ An important ability we learned over the course of 24 hours was to be patient an
 **What's next for I.M.S (Intelligent, Mirror, System)** 
 
 Create a better physical model with a two-way mirror and LED lights behind the frame Implement with a smart home system (Alexa, Google Home...) Have Personal profiles based on the facial recognition it can be personalized for each person Have voice control to give commands to the mirror, and have a speaker to have responsive feedback
+
+# images
+
+![](images/logo.png)
